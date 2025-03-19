@@ -1,2 +1,2 @@
-# DiscordBot
-Python script for private voice channels
+# Chart Generator
+Python script for ticker close price extraction
